@@ -1,2 +1,5 @@
 # Firefox57
-Information about the launch event in Colombia, documentation and progress.
+Information about the test event in Colombia, documentation and progress.
+## Register
+## Documentation
+## Reporting
