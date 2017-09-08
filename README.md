@@ -1,4 +1,4 @@
-
+![Firefox 57](https://blog.nightly.mozilla.org/files/2017/07/nightly-blog-header-robot-2.jpg)
 # Sprint Firefox 57 en Colombia
 La versión de Firefox 57 cada vez está más cerca. Por esta razón, queremos presentarla y asegurarnos de su éxito e impacto. Nos encontramos ahora en la introducción de la campaña de Firefox 57. 
 
