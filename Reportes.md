@@ -6,6 +6,7 @@ Durante las pruebas, te invitamos a que hagas el [reporte](https://firefoxsprint
   - [ ] ¿Ya tienes tu nombre de usuario?
 * Es necesario que tengas la URL de los sitios visitados.
   Para esto te invitamos a que vayas a [Alexa](https://www.alexa.com/topsites/countries/CO) y navegues por los sitios más visitados en Colombia.
+  - [ ] ¿Ya tienes una lista de sitios a visitar?
 * ¿Qué pruebas debo realizar?
   - [ ] ¿El sitio se visualiza correctamente?
   - [ ] ¿Se demoró mucho en cargar la página que estás visitando?
