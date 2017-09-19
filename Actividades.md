@@ -3,7 +3,7 @@ Teniendo en cuenta la reactivación y nuevos puntos de contribución en Colombia
 
 ## Prueba Firefox 57 en la Universidad Nacional
 
-El encuentro se realizará el día 5 de octubre de 2017. El grupo Usmite será el encargado de coordinar toda la actividad. Nos encontraremos en el Edificio de Ingenierías. 
+El encuentro se realizará el día 5 de octubre de 2017. El grupo [Usmite](usimte.github.io) será el encargado de coordinar toda la actividad. Nos encontraremos en el Edificio de Ingenierías. 
 
 
 ## Prueba Firefox 57 en la Universidad Distrital
