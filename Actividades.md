@@ -11,4 +11,6 @@ El encuentro se realizará el día 5 de octubre de 2017. El grupo [Usmite](usimt
 El encuentro se realizará el día viernes 6 de octubre de 2017 desde las 2:00 pm. La reunión será en la sede de ingenierias. La organización estará a cargo de varios estudiantes de Ingeniería de sistemas y también estará el grupo GLUD.
 
 
-## Prueba Firefox 57 en la Universidad Pedagógica
+## Prueba Firefox 57 y reunión en línea con otras comunidades 
+
+Nos vamos a reunir en línea con Mozillians de Honduras y de Cuba. 
