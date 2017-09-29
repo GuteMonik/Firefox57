@@ -3,7 +3,7 @@
 Las tres actividades que se realizarán en Colombia tendrán el mismo formato, sin embargo, las modificaciones se darán en término de tiempos y espacios de desarrollo. A contunación presentamos la lista con las temáticas y puntos de trabajo.
 ## Preparación
 * Pedir a los asistentes que traigan sus sitios web favoritos al evento. Vamos a tener como base la lista presentada por Alexa, sin embargo queremos ver y probar los sitios que realmente se usan y conocen en el contexto. 
-* En la siguiente hoja de calculo encontramos en una pestaña la lista con los sitios web presentados en alexa. A su vez, existe otra pestaña en la que incluiremos los sitios que usamos y que trajimos al evento.
+* En la siguiente [hoja de cálculo] (https://docs.google.com/a/mozillacolombia.org/spreadsheets/d/1g0rV8_KIyMFCT9leTC1QJPzBwPu8r-OKkm2FC47LkLg/edit?usp=sharing) encontramos en una pestaña la lista con los sitios web presentados en alexa. A su vez, existe otra pestaña en la que incluiremos los sitios que usamos y que trajimos al evento.
 
 ## Durante el evento
 * Charla de [introducción](https://slides.com/gutemonik/firefox_57/) sobre la importancia de [este](https://gutemonik.github.io/Firefox57/) trabajo para Firefox en Colombia.
