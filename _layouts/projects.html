@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="lesson-content" style="background:#f2f2f2">
+<div class="page-header">
+  <h2>
+    {% if page.module %}{{ page.module }}.{% endif %}
+    {{ page.title }}
+  </h2>
+</div>
+<div class="details">
+</div>
+
+{{ content }}
+
+<div class="project-list">
+  <div class="projects row">
+  </div>
+</div>
+
+<p>
+  Browse the <a href="https://github.com/mozilla/global-sprint/issues">full list of projects on GitHub</a>. Want to bring your own project to #mozsprint? <a href="{{ site.baseurl }}/project-lead">Register your project</a>!
+</p>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"
+        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        crossorigin="anonymous"></script>
+<script src="{{ site.baseurl }}/js/projects.js"></script>
