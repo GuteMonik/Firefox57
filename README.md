@@ -9,3 +9,8 @@ En este repositorio se presenta la información sobre el evento en el que se tes
 * [Formato de las actividades y Documentación](Formato_Documentación.md)
 * [Reportes](Reportes.md)
 * [Recursos](Recursos.md)
+
+----
+
+<img src="https://www.mozilla.org/media/img/pebbles/moz-wordmark-dark-reverse.2cbc28bb9895.svg" width="150"></img>
+<img src="https://orig15.deviantart.net/5b95/f/2016/070/3/b/mit_license_logo_by_excaliburzero-d9ur2lg.png" width="75"></img>
