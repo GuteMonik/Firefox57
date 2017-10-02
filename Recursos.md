@@ -1,5 +1,6 @@
 ![Firefox 57](https://blog.nightly.mozilla.org/files/2017/07/nightly-blog-header-robot-2.jpg)
 # Sprint Firefox 57 en Colombia
+## Recursos
 Tenemos una lista de recursos disponibles para obtener información adicional sobre el evento.
 
  * El [repositorio](https://github.com/GuteMonik/Firefox57) de esta página.
